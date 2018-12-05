@@ -1,4 +1,3 @@
-i
 
 
 chenshiyan cheshigit change
@@ -14,3 +13,5 @@ first chage
 测试分支也发生了改变
 陈士炎真是太好了
 
+
+禁用Fast forward
